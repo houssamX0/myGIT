@@ -1,0 +1,2 @@
+# myGIT
+fot git course
